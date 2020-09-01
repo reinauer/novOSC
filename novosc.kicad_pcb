@@ -11,8 +11,8 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal)
-    (31 B.Cu signal)
+    (0 F.Cu signal hide)
+    (31 B.Cu signal hide)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -287,10 +287,10 @@
 
   (gr_line (start 25.1 38.325) (end 25.1 25.95) (layer Edge.Cuts) (width 0.05) (tstamp 5F3CB950))
   (gr_line (start 45.475 38.325) (end 25.1 38.325) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 25.925 25.125) (end 45.55 25.125) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 25.925 25.125) (end 45.45 25.125) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 46.3 25.95) (end 46.3 37.5) (layer Edge.Cuts) (width 0.05))
   (gr_arc (start 45.475 37.5) (end 46.3 37.5) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5F3CB93A))
-  (gr_arc (start 45.475 25.95) (end 45.475 25.125) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5F3CB93A))
+  (gr_arc (start 45.475 25.95) (end 45.45 25.125) (angle 91.73570459) (layer Edge.Cuts) (width 0.05) (tstamp 5F3CB93A))
   (gr_arc (start 25.925 25.95) (end 25.1 25.95) (angle 90) (layer Edge.Cuts) (width 0.05))
   (gr_text "amiga.technology\noscillator adapter" (at 35.700001 31.725) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
