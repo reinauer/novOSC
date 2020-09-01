@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name novosc)(type KiCad)(uri ${KIPRJMOD}/novosc.pretty)(options "")(descr ""))
+  (lib (name Oscillator)(type KiCad)(uri ${KISYSMOD}/Oscillator.pretty)(options "")(descr ""))
+)
